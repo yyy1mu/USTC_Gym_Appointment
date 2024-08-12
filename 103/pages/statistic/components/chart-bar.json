@@ -1,0 +1,7 @@
+{
+  "component": true,
+  "usingComponents": {
+    "van-empty": "../../../miniprogram_npm/@vant/weapp/empty/index",
+    "ec-canvas": "../ec-canvas/ec-canvas"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "component": true,
+  "usingComponents": {
+    "player-search": "/components/player-search/player-search",
+    "van-icon": "../../../../miniprogram_npm/@vant/weapp/icon/index"
+  }
+}
